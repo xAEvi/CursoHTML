@@ -1,0 +1,15 @@
+.galeria{
+    background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 700px;
+    border: 1px solid green;
+    padding: 10px;
+    align-items: center;
+}
+
+.imagen{
+    width: 300px;
+    border: 2.5px solid black;
+}
